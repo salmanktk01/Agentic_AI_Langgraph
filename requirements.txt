@@ -1,0 +1,7 @@
+#uv - r requiremnets.txt and then you can see this file in that toml file
+langchain
+langgraph
+ipykernel
+langchain_groq
+python-dotenv
+langchain_tavily
